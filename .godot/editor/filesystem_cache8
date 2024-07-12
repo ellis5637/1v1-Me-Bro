@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1720726590
+Control.gd::GDScript::-1::1720707366::0::1::::<>Control<>::
+Node.gd::GDScript::-1::1720706968::0::1::::<>Node<>::
+::res://fonts/::1720658181
+FOOD DELIGHT.TTF::FontFile::4183224410148286949::1720658173::1720658181::1::::<><>::
+::res://levels/::1720651985
+::res://levels/asset/::1720651985
+::res://levels/code/::1720651978
+::res://levels/scene/::1720707428
+test_level.tscn::PackedScene::8831987256911682780::1720707428::0::1::::<><>::uid://dws6gqj73xv0g::::res://Player/scene/player.tscn
+::res://Menus/::1720652087
+::res://Menus/asset/::1720652087
+::res://Menus/code/::1720652074
+::res://Menus/scene/::1720707742
+IP.tscn::PackedScene::8465727752347101744::1720707428::0::1::::<><>::res://Node.gd
+StartMenu.gd::GDScript::-1::1720707742::0::1::::<>Node<>::
+StartMenu.tscn::PackedScene::2614298910276998064::1720707742::0::1::::<><>::res://Menus/scene/StartMenu.gd<>res://Control.gd<>uid://b0undhwkx7fmj::::res://fonts/FOOD DELIGHT.TTF
+::res://Player/::1720652399
+::res://Player/asset/::1720652228
+::res://Player/code/::1720657330
+InputSync.gd::GDScript::-1::1720653761::0::1::::<>MultiplayerSynchronizer<>::
+Player.gd::GDScript::-1::1720657330::0::1::::<>CharacterBody3D<>::
+::res://Player/scene/::1720707428
+player.tscn::PackedScene::8742469207997403492::1720707428::0::1::::<><>::res://Player/code/Player.gd<>res://Player/code/InputSync.gd

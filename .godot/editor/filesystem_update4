@@ -1,0 +1,7 @@
+res://Player/scene/player.tscn
+res://Menus/scene/StartMenu.gd
+res://levels/scene/test_level.tscn
+res://Menus/scene/StartMenu.tscn
+res://Menus/scene/IP.tscn
+res://Player/code/Player.gd
+res://levels/scene/test_level.gd
